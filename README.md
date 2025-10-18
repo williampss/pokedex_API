@@ -36,7 +36,6 @@ Este projeto tem como objetivo demonstrar o consumo de uma API externa (API do P
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Felipe Ferreira Lima**
+Desenvolvido por **William Patricio dos Santos**
 
-[![GitHub](https://img.shields.io/badge/felipeFerreiraffl-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/felipeFerreiraffl) [![Linkedin](https://img.shields.io/badge/Felipe_Ferreira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-ferreira-959bb8271) [![Instagram](https://img.shields.io/badge/felipe__ffl7-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipe_ffl7)
 
