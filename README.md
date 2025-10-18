@@ -16,7 +16,7 @@ Este projeto tem como objetivo demonstrar o consumo de uma API externa (API do P
 
 - #### 📱 Funcionalidades
 
-  - **PokéAPI** - Permite buscar dados da PokéAPI por meio do campo de busca, além de, ao clicar nos botões `Prev` ou `Next` ir para o próximo anime ou anterior
+  - **PokéAPI** - Permite buscar dados da PokéAPI por meio do campo de busca, além de, ao clicar nos botões `Prev` ou `Next` ir para o próximo pokemon ou anterior
 
 - #### 🎨 Inspiração
 
